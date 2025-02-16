@@ -1,1 +1,1 @@
-# GUI_FFmpeg
+# ConverterGUI
